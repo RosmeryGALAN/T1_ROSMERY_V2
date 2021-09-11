@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\bin\Debug\netcoreapp3.1\ROSMERY_T1_V2.exe
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\bin\Debug\netcoreapp3.1\ROSMERY_T1_V2.deps.json
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\bin\Debug\netcoreapp3.1\ROSMERY_T1_V2.runtimeconfig.json
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\bin\Debug\netcoreapp3.1\ROSMERY_T1_V2.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\bin\Debug\netcoreapp3.1\ROSMERY_T1_V2.dll
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\bin\Debug\netcoreapp3.1\ROSMERY_T1_V2.pdb
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\obj\Debug\netcoreapp3.1\ROSMERY_T1_V2.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\obj\Debug\netcoreapp3.1\ROSMERY_T1_V2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\obj\Debug\netcoreapp3.1\ROSMERY_T1_V2.AssemblyInfo.cs
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\obj\Debug\netcoreapp3.1\ROSMERY_T1_V2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\obj\Debug\netcoreapp3.1\ROSMERY_T1_V2.dll
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\obj\Debug\netcoreapp3.1\ROSMERY_T1_V2.pdb
+C:\Users\USER\source\repos\ROSMERY_T1_V2\ROSMERY_T1_V2\obj\Debug\netcoreapp3.1\ROSMERY_T1_V2.genruntimeconfig.cache
